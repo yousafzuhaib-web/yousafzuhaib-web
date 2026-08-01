@@ -32,20 +32,6 @@ I help companies build reliable, scalable and high-performing PostgreSQL environ
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousafzuhaib-web&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousafzuhaib-web&layout=compact)
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,aws,azure,linux,bash,powershell,python,docker,git,github,vscode" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
