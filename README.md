@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Zuhaib 👋
 
-<!--
-**yousafzuhaib-web/yousafzuhaib-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PostgreSQL Database Consultant with 5+ years of experience supporting production database environments.
 
-Here are some ideas to get you started:
+I specialize in helping businesses improve PostgreSQL performance, availability, reliability, and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- PostgreSQL Administration
+- Performance Tuning
+- Query Optimization
+- High Availability and Replication
+- Backup and Disaster Recovery
+- PostgreSQL Migrations and Upgrades
+- AWS RDS and Aurora PostgreSQL
+- Azure Database for PostgreSQL
+- Monitoring and Troubleshooting
+- Database Automation
+
+## Technologies
+
+PostgreSQL · Linux · AWS · Azure · Patroni · HAProxy · Prometheus · Grafana · SQL · Bash · PowerShell · Python · Ansible
+
+## Services
+
+- PostgreSQL Health Checks
+- Performance Assessments
+- High Availability Reviews
+- Backup and Recovery Reviews
+- Cloud Migration Support
+- Production Database Troubleshooting
+
+## Current focus
+
+I'm building practical PostgreSQL tools, monitoring queries, health-check scripts, and cloud database documentation.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/zuhaib-yousaf-begum-6417b289
+- Upwork: https://www.upwork.com/freelancers/~018fc966d7ee5920eb
+- Email: yousafzuhaib@gmail.com
