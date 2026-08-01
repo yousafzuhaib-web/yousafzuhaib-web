@@ -32,10 +32,6 @@ I help companies build reliable, scalable and high-performing PostgreSQL environ
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousafzuhaib-web&layout=compact&theme=github_dark&hide_border=true)
-
 ## 🛠️ Tech Stack
 
 <p align="center">
