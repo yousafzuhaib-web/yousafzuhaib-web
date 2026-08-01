@@ -17,9 +17,9 @@ I help companies build reliable, scalable and high-performing PostgreSQL environ
 
 | Database | Cloud | Automation | Monitoring |
 |----------|-------|------------|------------|
-| PostgreSQL | AWS | Bash | Prometheus |
+| PostgreSQL | AWS | Bash | Cloudwatch |
 | SQL Server | Azure | PowerShell | Grafana |
-| PostGIS | Linux | Python | Zabbix |
+| Oracle | Linux | Python | Zabbix |
 
 ---
 
